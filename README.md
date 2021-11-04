@@ -1,5 +1,5 @@
 # oblig_3_vr1
-# jeg sammarbeidet med thomas kvarem
+# jeg sammarbeidet med thomas kvarem pedersen
 #dette er en dokutmentasjon på hvordan jeg utførte i denne obligen. 
 #for å gjennomføre denne obligen gikk jeg inn på github sin ofiseielle hjemme siden og benyttet dox`en deres.
 #den forklarte hva vi skulle gjøre steg for steg. 
